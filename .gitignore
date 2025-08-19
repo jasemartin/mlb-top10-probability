@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+.env
+.venv
+.venv*/
+.conda/
+.ipynb_checkpoints/
+.DS_Store
+
+# Cache
+data/*.parquet
